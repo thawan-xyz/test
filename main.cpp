@@ -10,7 +10,7 @@ using namespace std; /*
 # @problem: [14] - Name
 # @url: https://github.com/thawan-xyz
 
-/* int main() {
+*/ int main() {
     int t; read >> t;
     while (t--) {
         int n; read >> n;
