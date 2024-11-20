@@ -8,9 +8,9 @@ using namespace std; /*
 
 # @author: Thawan Silva, 2024-08-14
 # @problem: [14] - Name
-# @url: https://github.com/thawan-xyz
+# @url: https://github.com/thawan-xyz */
 
-*/ int main() {
+int main() {
     int t; read >> t;
     while (t--) {
         int n; read >> n;
